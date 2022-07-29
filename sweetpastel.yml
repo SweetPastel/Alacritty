@@ -18,10 +18,10 @@ colors:
   # Bright colors
   bright:
     black:   '#43474b'
-    red:     '#e5a3a1'
-    green:   '#b4e3ad'
-    yellow:  '#ece3b1'
-    blue:    '#a3cbe7'
-    magenta: '#ceace8'
-    cyan:    '#c9d4ff'
-    white:   '#ffdede'
+    red:     '#efadab'
+    green:   '#beedb7'
+    yellow:  '#f6edbb'
+    blue:    '#add5f1'
+    magenta: '#d8b6f2'
+    cyan:    '#d3deff'
+    white:   '#f8f9fa'
